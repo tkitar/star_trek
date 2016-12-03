@@ -1,6 +1,4 @@
 Best starships
-1) T-kon empire battlecruiser
-2) Romulan T-paw cruiser
-2) Enterprise class c
-3) Klingon warbird class W
-4) Unknown class romulan warship
+1) t-kon alpha
+2) t-kon beta
+3) t-kon gamma
