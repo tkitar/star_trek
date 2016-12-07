@@ -2,3 +2,4 @@ Best starships
 1) t-kon alpha
 2) t-kon beta
 3) t-kon gamma
+4) t-kon delta
